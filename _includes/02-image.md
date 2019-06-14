@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Kung Fury](https://i.ytimg.com/vi/bS5P_LAqiVg/maxresdefault.jpg)
